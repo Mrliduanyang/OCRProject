@@ -1,0 +1,1 @@
+模型太大，可从这里下载解压，https://paddleocr.bj.bcebos.com/dygraph_v2.0/ch/ch_ppocr_server_v2.0_rec_infer.tar
